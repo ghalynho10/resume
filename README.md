@@ -8,7 +8,7 @@ Atlanta, GA | <mghalynho@gmail.com> | +1 770-313-3160 | [LinkedIn](https://www.l
 ## Experience
 
 **Software Engineer at B-Line Express**\
-*Remote| March 2023 – August 2025*
+*Remote | March 2023 – August 2025*
 
 * Developed and maintained web-based applications using Vue.js, JavaScript, and Coldfusion.
 * Implemented a Bayesian Lognormal distribution algorithm in Vue.JS to take data and create graphs for data analysis.
@@ -27,9 +27,9 @@ Atlanta, GA | <mghalynho@gmail.com> | +1 770-313-3160 | [LinkedIn](https://www.l
 **Web and Mobile Developer – at GAMMA Research Group**\
 *Remote | January 2021 – May 2022*
 
-* Led the development of frontend functionalities using React.JS, allowing users to interact with data coming from connected devices, monitor diﬀerent data measurements, and export a sorted and organized dataset into a self-generated spreadsheet.
+* Led the development of frontend functionalities using React.JS, allowing users to interact with data coming from connected devices, monitor different data measurements, and export a sorted and organized dataset into a self-generated spreadsheet.
 * Query and analyze data housed within Athena AWS to create and design dashboards for QA and data analysis.
-* contributed to the integration of RESTful API services to connect the application backend to a React.JS based frontend.
+* Contributed to the integration of RESTful API services to connect the application backend to a React.JS based frontend.
 * Assisted with the development of mobile applications to monitor and regulate the devices using React Native connecting to the backend.
 
 ***
@@ -94,7 +94,7 @@ Atlanta, GA | <mghalynho@gmail.com> | +1 770-313-3160 | [LinkedIn](https://www.l
  *Fellow and Co-Founder of Haiti RELAY*
 
 * Co-led the development and launch of Haiti RELAY, a venture with the Georgia Institute of Technology.
-* Collaborated in the development of a mulY-phase business plan, which outlines the production and sales of solar panel systems, as panel eﬃciency improves over time and manufacturing becomes more cost-eﬃcient.
+* Collaborated in the development of a multi-phase business plan, which outlines the production and sales of solar panel systems, as panel efficiency improves over time and manufacturing becomes more cost-efficient.
 * Manufactured and sold 25 low-cost and portable solar panel systems, capable of providing light and cell phone power.
   
 **Compassion International Haiti, Project HA-254**\
